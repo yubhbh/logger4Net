@@ -13,3 +13,7 @@ Logger.Debug(LoggerName.Hotel, "my debug ", new Exception("here is debug excepti
 Logger.Error(LoggerName.Hotel, "my test msg ");
 Logger.Error(LoggerName.Hotel, "my test msg ", new Exception("alex excetiopn coming"));
 Logger.Warn(LoggerName.Hotel, "my Warn", new FieldAccessException("can't find file!"));
+
+
+关于如何配置请参考：
+logger4Net/Release1.0.0.0/使用说明.docx
