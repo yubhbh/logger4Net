@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <loggerConfigPath>D:\Users\yusj\Alex_Yu\githhub\logger4net\Sample\Test.Log.Client\log4net</loggerConfigPath>
+  <loggerCodeFilePath>d:\Users\yusj\Alex_Yu\githhub\logger4net\Sample\Test.Log.Client</loggerCodeFilePath>
+  <sqlConnstring>Data Source=172.16.132.50;Initial Catalog=testdb;Persist Security Info=True;User ID=sa;Password=111111</sqlConnstring>
+  <saveDir></saveDir>
+</config>
